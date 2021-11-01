@@ -1,5 +1,3 @@
-# us-medical-insurance-costs-project
-
 U.S. Medical Insurance Costs (CodeCademy Project)
 
 Contents:
