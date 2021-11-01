@@ -9,7 +9,13 @@ Contents:
 - Conclusions
 
 Desciption:
-This is a CodeCademy portfolio project. Investigating a medical insurance costs dataset in a .csv file using the Python skills.
+This is a Codecademy Portfolio Project. 
+Project Tasks:
+- Importing dataset
+- Scoping the project
+- Reviewin the dataset
+- Saving dataset via Python variables
+- Building out analysis functions and/or class
 
 Technology:
 - Python
