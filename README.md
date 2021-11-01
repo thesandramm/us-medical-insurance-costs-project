@@ -1,4 +1,4 @@
-# U.S. Medical Insurance Costs (CodeCademy Project)
+# U.S. Medical Insurance Costs (Codecademy Project)
 
 Contents:
 - Introduction & description of the problem
