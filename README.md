@@ -7,7 +7,8 @@ Contents:
 - Conclusions
 
 Desciption:
-This is a Codecademy Portfolio Project. 
+- This is a Codecademy Portfolio Project 
+
 Project Tasks:
 - Importing dataset
 - Scoping the project
