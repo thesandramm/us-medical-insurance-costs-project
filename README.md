@@ -10,11 +10,11 @@ Desciption:
 - This is a Codecademy Portfolio Project 
 
 Project Tasks:
-- Importing dataset
-- Scoping the project
-- Reviewin the dataset
-- Saving dataset via Python variables
-- Building out analysis functions and/or class
+- Import dataset
+- Scope the project
+- Review the dataset
+- Save dataset via Python variables
+- Build out analysis functions and/or class
 
 Technology:
 - Python
