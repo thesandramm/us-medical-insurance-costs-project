@@ -1,4 +1,4 @@
-# U.S. Medical Insurance Costs (Codecademy Portfolio Project)
+# U.S. Medical Insurance Costs (Portfolio Project)
 
 Contents:
 - Introduction & description of the problem
